@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Kwon</h1>
-<h3 align="center">Noondate Backend developer from Korea</h3>
+<h3 align="center">front-end developer from Korea</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tienne" alt="tienne" /> </p>
 
 - 🔭 I’m currently working on [Hied](https://github.com/highedition)
