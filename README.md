@@ -2,7 +2,7 @@
 <h3 align="center">front-end developer from Korea</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tienne" alt="tienne" /> </p>
 
-- 🔭 I’m currently working on [Hied](https://github.com/highedition)
+- 🔭 I’m currently working on [CatchTable](https://github.com/CatchTable)
 
 - 📫 How to reach me **tienne89@gmail.com**
 
